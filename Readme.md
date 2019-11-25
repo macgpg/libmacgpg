@@ -11,7 +11,7 @@ Build
 #### Clone the repository
 ```bash
 git clone --recursive https://github.com/macgpg/libmacgpg-free
-cd Libmacgpg-free
+cd libmacgpg-free
 ```
 
 #### Build (newest version 2019.1)
